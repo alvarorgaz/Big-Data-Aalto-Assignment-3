@@ -2,7 +2,7 @@ import pika, argparse, threading
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--server_address_broker', type=str, default='35.228.7.132')
+    parser.add_argument('--server_address_broker', type=str, default='35.228.244.77')
     return parser.parse_args()
 args = parse_args()
 
@@ -28,7 +28,7 @@ class consume_input_topic_and_publish_into_hdfs_topic(threading.Thread):
         rabbitmq_channel.basic_consume(queue=rabbitmq_topic, on_message_callback=callback)
         rabbitmq_channel.start_consuming()
 
-available_clients_id = ['client1','client2']
+available_clients_id = ['client1']
 for client_id in available_clients_id:
     print('Starting new input RabbitMQ topic for', client_id)
     consume_input_topic_and_publish_into_hdfs_topic(client_id).start()
