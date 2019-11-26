@@ -4,7 +4,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--client_id', type=str, help='Set the client ID.')
     parser.add_argument('--dataset_path', type=str, help='Set the path of the dataset to ingest including the extension.')
-    parser.add_argument('--server_address_broker', type=str, default='35.228.105.231')
+    parser.add_argument('--server_address_broker', type=str, default='35.228.56.40')
     return parser.parse_args()
 args = parse_args()
 
@@ -26,7 +26,7 @@ rabbitmq_topic = 'input_topic_'+args.client_id
 start = datetime.datetime.now()
 for row in data.index:
     row_to_ingest_json = data.loc[[row],].to_dict(orient='records')[0]
-    message_json = {'data':row_to_ingest_json,'sending_time':datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
+    message_json = {'data':row_to_ingest_json}
     rabbitmq_channel.queue_declare(queue=rabbitmq_topic)
     rabbitmq_channel.basic_publish(exchange='', routing_key=rabbitmq_topic, body=json.dumps(message_json))
 
