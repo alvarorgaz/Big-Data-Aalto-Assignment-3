@@ -1,0 +1,360 @@
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 9.55, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 7.3596508503 seconds', 'Prediction LR': 9.645923224184504, 'Analytics time': 3.062507152557373}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 9.36, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.534367799759 seconds', 'Prediction LR': 9.434861407175472, 'Analytics time': 1.128937005996704}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 10.3, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.509433031082 seconds', 'Prediction LR': 10.491744788199865, 'Analytics time': 1.2169830799102783}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 10.55, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.567170858383 seconds', 'Prediction LR': 10.600300767002647, 'Analytics time': 1.038586139678955}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 11.76, 'Prediction GBT:': 12.608920688707716, 'Format check': 'OK Message ingested to database in 0.452121973038 seconds', 'Prediction LR': 11.759715122979937, 'Analytics time': 0.9954638481140137}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 9.35, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.483250141144 seconds', 'Prediction LR': 9.428525570453303, 'Analytics time': 0.911370038986206}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 10.79, 'Prediction GBT:': 10.214826988045859, 'Format check': 'OK Message ingested to database in 0.451197147369 seconds', 'Prediction LR': 10.823478097939148, 'Analytics time': 0.8579180240631104}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 21.36, 'Prediction GBT:': 22.303242714249183, 'Format check': 'OK Message ingested to database in 0.58704996109 seconds', 'Prediction LR': 21.238905729411485, 'Analytics time': 0.8815629482269287}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 40.26, 'Prediction GBT:': 39.73612546737606, 'Format check': 'OK Message ingested to database in 0.430050134659 seconds', 'Prediction LR': 39.26456345449714, 'Analytics time': 0.7918999195098877}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 17.15, 'Prediction GBT:': 18.077128593932628, 'Format check': 'OK Message ingested to database in 0.399434089661 seconds', 'Prediction LR': 17.13135670476661, 'Analytics time': 0.8057429790496826}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 8.75, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.449701070786 seconds', 'Prediction LR': 8.864211061364273, 'Analytics time': 0.7118229866027832}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 6.95, 'Prediction GBT:': 6.977932568495163, 'Format check': 'OK Message ingested to database in 0.358592033386 seconds', 'Prediction LR': 7.0993572368117075, 'Analytics time': 0.7577610015869141}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 23.8, 'Prediction GBT:': 23.726481124737347, 'Format check': 'OK Message ingested to database in 0.435708045959 seconds', 'Prediction LR': 23.757668666585214, 'Analytics time': 0.7643659114837646}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 34.87, 'Prediction GBT:': 37.905721663835834, 'Format check': 'OK Message ingested to database in 0.397398948669 seconds', 'Prediction LR': 33.96051755215881, 'Analytics time': 0.7813160419464111}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 4.3, 'Prediction GBT:': 4.901871734026302, 'Format check': 'OK Message ingested to database in 0.347461223602 seconds', 'Prediction LR': 4.532046499837188, 'Analytics time': 0.6920509338378906}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 47.47, 'Prediction GBT:': 44.021745598138196, 'Format check': 'OK Message ingested to database in 0.416475057602 seconds', 'Prediction LR': 46.437460932384916, 'Analytics time': 0.7819428443908691}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 45.8, 'Prediction GBT:': 44.41631619094101, 'Format check': 'OK Message ingested to database in 0.390280008316 seconds', 'Prediction LR': 45.560405164095734, 'Analytics time': 0.6546139717102051}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 6.67, 'Prediction GBT:': 6.5981360905144175, 'Format check': 'OK Message ingested to database in 0.378031015396 seconds', 'Prediction LR': 6.8184029804999255, 'Analytics time': 0.7175729274749756}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 6.3, 'Prediction GBT:': 6.270007747296655, 'Format check': 'OK Message ingested to database in 0.534381151199 seconds', 'Prediction LR': 6.526522728659482, 'Analytics time': 0.6253259181976318}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 15.36, 'Prediction GBT:': 15.411386618562615, 'Format check': 'OK Message ingested to database in 0.405352115631 seconds', 'Prediction LR': 15.377153334773343, 'Analytics time': 0.6193220615386963}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 13.56, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.38053393364 seconds', 'Prediction LR': 13.610861304275067, 'Analytics time': 0.7236349582672119}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 19.3, 'Prediction GBT:': 17.882629317826343, 'Format check': 'OK Message ingested to database in 0.339160919189 seconds', 'Prediction LR': 19.515427268567883, 'Analytics time': 0.6298749446868896}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 55.55, 'Prediction GBT:': 52.70535604054074, 'Format check': 'OK Message ingested to database in 0.393448829651 seconds', 'Prediction LR': 54.980523451044455, 'Analytics time': 0.6415112018585205}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 63.36, 'Prediction GBT:': 67.16408210972708, 'Format check': 'OK Message ingested to database in 0.377188920975 seconds', 'Prediction LR': 62.919963950141145, 'Analytics time': 0.6805551052093506}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 55.06, 'Prediction GBT:': 56.5439107201311, 'Format check': 'OK Message ingested to database in 0.371486902237 seconds', 'Prediction LR': 53.767482426739484, 'Analytics time': 0.6979432106018066}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 7.25, 'Prediction GBT:': 7.099750041889575, 'Format check': 'OK Message ingested to database in 0.336291074753 seconds', 'Prediction LR': 7.357028017925089, 'Analytics time': 0.6759800910949707}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 16.5, 'Prediction GBT:': 17.98387204819429, 'Format check': 'OK Message ingested to database in 0.343147993088 seconds', 'Prediction LR': 16.524005253917355, 'Analytics time': 0.6196410655975342}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 32.58, 'Prediction GBT:': 24.008255939025666, 'Format check': 'OK Message ingested to database in 0.300956010818 seconds', 'Prediction LR': 31.469915589342108, 'Analytics time': 0.6018640995025635}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 9.8, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.480795860291 seconds', 'Prediction LR': 9.99006954335966, 'Analytics time': 1.954097032546997}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 26.0, 'Prediction GBT:': 23.9982054772995, 'Format check': 'OK Message ingested to database in 0.65885591507 seconds', 'Prediction LR': 25.94846672880148, 'Analytics time': 1.66532301902771}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 7.8, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.551662921906 seconds', 'Prediction LR': 7.986244975890254, 'Analytics time': 0.7448709011077881}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 51.56, 'Prediction GBT:': 50.41188023119008, 'Format check': 'OK Message ingested to database in 0.444506883621 seconds', 'Prediction LR': 50.491346053230416, 'Analytics time': 1.735548973083496}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 12.0, 'Prediction GBT:': 10.982175114425356, 'Format check': 'OK Message ingested to database in 0.595293045044 seconds', 'Prediction LR': 12.092417939914796, 'Analytics time': 1.8506019115447998}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 52.87, 'Prediction GBT:': 56.5439107201311, 'Format check': 'OK Message ingested to database in 0.539427042007 seconds', 'Prediction LR': 51.74424715658114, 'Analytics time': 1.4940719604492188}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:35 the report is: {'Target': 8.16, 'Prediction GBT:': 7.418783433651439, 'Format check': 'OK Message ingested to database in 0.737948179245 seconds', 'Prediction LR': 8.27890647602893, 'Analytics time': 1.5919480323791504}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.3, 'Prediction GBT:': 12.599625863764143, 'Format check': 'OK Message ingested to database in 0.700839996338 seconds', 'Prediction LR': 13.475908550218334, 'Analytics time': 1.611281156539917}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.699121952057 seconds', 'Prediction LR': 7.494637172670014, 'Analytics time': 1.3423640727996826}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 6.8, 'Prediction GBT:': 6.426130068542699, 'Format check': 'OK Message ingested to database in 0.63839507103 seconds', 'Prediction LR': 7.014535017015449, 'Analytics time': 1.0577738285064697}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 9.75, 'Prediction GBT:': 10.026158695897244, 'Format check': 'OK Message ingested to database in 0.501972198486 seconds', 'Prediction LR': 9.793420000132503, 'Analytics time': 1.567976951599121}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 9.75, 'Prediction GBT:': 10.026158695897244, 'Format check': 'OK Message ingested to database in 0.618397951126 seconds', 'Prediction LR': 9.807082956616743, 'Analytics time': 1.0886681079864502}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 6.3, 'Prediction GBT:': 6.270007747296655, 'Format check': 'OK Message ingested to database in 0.51714015007 seconds', 'Prediction LR': 6.527960934605192, 'Analytics time': 1.2119648456573486}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.5, 'Prediction GBT:': 13.001412298507704, 'Format check': 'OK Message ingested to database in 0.441603899002 seconds', 'Prediction LR': 13.522435131134083, 'Analytics time': 1.1163971424102783}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 9.8, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.505273103714 seconds', 'Prediction LR': 9.982878513631112, 'Analytics time': 0.6982629299163818}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 11.8, 'Prediction GBT:': 12.599625863764143, 'Format check': 'OK Message ingested to database in 0.342764854431 seconds', 'Prediction LR': 11.986703081100519, 'Analytics time': 0.6892781257629395}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.55, 'Prediction GBT:': 13.25412988713288, 'Format check': 'OK Message ingested to database in 0.333685874939 seconds', 'Prediction LR': 13.301622539233358, 'Analytics time': 0.8943819999694824}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 6.3, 'Prediction GBT:': 6.270007747296655, 'Format check': 'OK Message ingested to database in 0.349196910858 seconds', 'Prediction LR': 6.490567580016746, 'Analytics time': 0.6467480659484863}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.304187059402 seconds', 'Prediction LR': 7.521243982665639, 'Analytics time': 0.825455904006958}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 11.15, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.349883079529 seconds', 'Prediction LR': 11.200570424734416, 'Analytics time': 0.8152580261230469}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 10.35, 'Prediction GBT:': 10.214826988045859, 'Format check': 'OK Message ingested to database in 0.35417509079 seconds', 'Prediction LR': 10.390094142999995, 'Analytics time': 0.5864148139953613}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 73.16, 'Prediction GBT:': 70.96323163368457, 'Format check': 'OK Message ingested to database in 0.358490943909 seconds', 'Prediction LR': 71.79659008255528, 'Analytics time': 0.5899720191955566}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 11.3, 'Prediction GBT:': 10.800195087980244, 'Format check': 'OK Message ingested to database in 0.299284934998 seconds', 'Prediction LR': 11.272731882520466, 'Analytics time': 0.5424818992614746}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 41.56, 'Prediction GBT:': 36.20641201177952, 'Format check': 'OK Message ingested to database in 0.378506183624 seconds', 'Prediction LR': 42.54102660054039, 'Analytics time': 0.5425539016723633}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 67.56, 'Prediction GBT:': 70.96323163368457, 'Format check': 'OK Message ingested to database in 0.447866916656 seconds', 'Prediction LR': 66.71755128893355, 'Analytics time': 0.5565531253814697}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 8.3, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.299206018448 seconds', 'Prediction LR': 8.428086784567224, 'Analytics time': 0.5148820877075195}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 20.35, 'Prediction GBT:': 19.968647919176203, 'Format check': 'OK Message ingested to database in 0.294106960297 seconds', 'Prediction LR': 20.17593183830951, 'Analytics time': 0.5533461570739746}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 6.96, 'Prediction GBT:': 6.977932568495163, 'Format check': 'OK Message ingested to database in 0.360279083252 seconds', 'Prediction LR': 7.081243572456815, 'Analytics time': 0.6124958992004395}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.358960866928 seconds', 'Prediction LR': 7.50614282023569, 'Analytics time': 0.549314022064209}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 8.16, 'Prediction GBT:': 7.418783433651439, 'Format check': 'OK Message ingested to database in 0.320006847382 seconds', 'Prediction LR': 8.272434549273237, 'Analytics time': 0.6450331211090088}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.5, 'Prediction GBT:': 13.001412298507704, 'Format check': 'OK Message ingested to database in 0.336813211441 seconds', 'Prediction LR': 13.470659717088544, 'Analytics time': 0.598599910736084}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 21.96, 'Prediction GBT:': 22.454428694213796, 'Format check': 'OK Message ingested to database in 0.304687976837 seconds', 'Prediction LR': 21.804658444446225, 'Analytics time': 0.5785229206085205}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 27.36, 'Prediction GBT:': 30.230857315217914, 'Format check': 'OK Message ingested to database in 0.314456939697 seconds', 'Prediction LR': 27.129422242963816, 'Analytics time': 0.5935139656066895}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 47.46, 'Prediction GBT:': 44.021745598138196, 'Format check': 'OK Message ingested to database in 0.284322977066 seconds', 'Prediction LR': 46.40308007972141, 'Analytics time': 0.5673799514770508}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 8.5, 'Prediction GBT:': 7.626511521902814, 'Format check': 'OK Message ingested to database in 0.346524953842 seconds', 'Prediction LR': 8.564797015922402, 'Analytics time': 0.5616159439086914}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 26.15, 'Prediction GBT:': 24.255475080453635, 'Format check': 'OK Message ingested to database in 0.331300973892 seconds', 'Prediction LR': 26.0275361248149, 'Analytics time': 0.5976190567016602}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 12.8, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.300980091095 seconds', 'Prediction LR': 12.8228519575379, 'Analytics time': 0.6561610698699951}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.0, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.290407896042 seconds', 'Prediction LR': 13.066211263000017, 'Analytics time': 0.5072081089019775}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 19.55, 'Prediction GBT:': 18.649874696685725, 'Format check': 'OK Message ingested to database in 0.304041147232 seconds', 'Prediction LR': 19.453334008679658, 'Analytics time': 0.5636298656463623}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 10.8, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.311810016632 seconds', 'Prediction LR': 10.977599767637269, 'Analytics time': 0.5262951850891113}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 11.8, 'Prediction GBT:': 10.982175114425356, 'Format check': 'OK Message ingested to database in 0.317051887512 seconds', 'Prediction LR': 11.898824628995948, 'Analytics time': 0.5259830951690674}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 10.8, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.281475067139 seconds', 'Prediction LR': 10.977599767637269, 'Analytics time': 0.7022809982299805}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 7.55, 'Prediction GBT:': 7.3844785857998065, 'Format check': 'OK Message ingested to database in 0.300472974777 seconds', 'Prediction LR': 7.68524483508638, 'Analytics time': 0.5028481483459473}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 18.3, 'Prediction GBT:': 18.58069240871985, 'Format check': 'OK Message ingested to database in 0.282931089401 seconds', 'Prediction LR': 18.373713229266777, 'Analytics time': 0.5497801303863525}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 6.8, 'Prediction GBT:': 6.977932568495163, 'Format check': 'OK Message ingested to database in 0.320485115051 seconds', 'Prediction LR': 6.951825168960794, 'Analytics time': 0.5414929389953613}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 9.35, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.298141956329 seconds', 'Prediction LR': 9.421334540724757, 'Analytics time': 0.5865809917449951}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 8.15, 'Prediction GBT:': 7.413547231543437, 'Format check': 'OK Message ingested to database in 0.359189033508 seconds', 'Prediction LR': 8.216406662715947, 'Analytics time': 0.5330979824066162}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 12.95, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.281836986542 seconds', 'Prediction LR': 12.93666013037279, 'Analytics time': 0.5436830520629883}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 13.56, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.317512989044 seconds', 'Prediction LR': 13.601512965627958, 'Analytics time': 0.5501959323883057}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 8.8, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.299130916595 seconds', 'Prediction LR': 9.009730348810598, 'Analytics time': 0.5238509178161621}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:36 the report is: {'Target': 11.3, 'Prediction GBT:': 10.937123682526222, 'Format check': 'OK Message ingested to database in 0.291129827499 seconds', 'Prediction LR': 11.386288894854774, 'Analytics time': 0.6487071514129639}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.354984998703 seconds', 'Prediction LR': 7.514052952937091, 'Analytics time': 0.7227299213409424}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.303385972977 seconds', 'Prediction LR': 7.521243982665639, 'Analytics time': 0.5183219909667969}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 5.3, 'Prediction GBT:': 5.566079134214154, 'Format check': 'OK Message ingested to database in 0.340597867966 seconds', 'Prediction LR': 5.510228385467685, 'Analytics time': 0.5671870708465576}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 12.8, 'Prediction GBT:': 12.599625863764143, 'Format check': 'OK Message ingested to database in 0.292465925217 seconds', 'Prediction LR': 12.952660216192486, 'Analytics time': 0.5626850128173828}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.27, 'Prediction GBT:': 10.982175114425356, 'Format check': 'OK Message ingested to database in 0.27858710289 seconds', 'Prediction LR': 11.322697000371278, 'Analytics time': 0.538503885269165}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 24.35, 'Prediction GBT:': 24.041119580991417, 'Format check': 'OK Message ingested to database in 0.280797958374 seconds', 'Prediction LR': 24.061333467863015, 'Analytics time': 0.593825101852417}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 36.36, 'Prediction GBT:': 35.93784439029528, 'Format check': 'OK Message ingested to database in 0.37631893158 seconds', 'Prediction LR': 35.940028409242395, 'Analytics time': 0.5533351898193359}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 15.0, 'Prediction GBT:': 13.360443109621583, 'Format check': 'OK Message ingested to database in 0.284708023071 seconds', 'Prediction LR': 15.05565377101233, 'Analytics time': 0.5598371028900146}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 6.8, 'Prediction GBT:': 6.426130068542699, 'Format check': 'OK Message ingested to database in 0.281382083893 seconds', 'Prediction LR': 7.005905781341193, 'Analytics time': 0.5527858734130859}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 15.3, 'Prediction GBT:': 15.434722477629274, 'Format check': 'OK Message ingested to database in 0.270602941513 seconds', 'Prediction LR': 15.310448140234293, 'Analytics time': 0.5537569522857666}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 53.76, 'Prediction GBT:': 52.31741144069609, 'Format check': 'OK Message ingested to database in 0.286493062973 seconds', 'Prediction LR': 53.31836526157659, 'Analytics time': 0.5210130214691162}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 16.8, 'Prediction GBT:': 16.422156569001057, 'Format check': 'OK Message ingested to database in 0.280076026917 seconds', 'Prediction LR': 16.910691246004323, 'Analytics time': 0.54156494140625}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 14.8, 'Prediction GBT:': 15.676967401257714, 'Format check': 'OK Message ingested to database in 0.27997303009 seconds', 'Prediction LR': 15.005383785816012, 'Analytics time': 0.5130929946899414}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.16, 'Prediction GBT:': 10.556042079862582, 'Format check': 'OK Message ingested to database in 0.278690099716 seconds', 'Prediction LR': 11.017621602848088, 'Analytics time': 0.5658190250396729}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.15, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.387547969818 seconds', 'Prediction LR': 11.214952484191508, 'Analytics time': 0.5831599235534668}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.8, 'Prediction GBT:': 10.937123682526222, 'Format check': 'OK Message ingested to database in 0.305858850479 seconds', 'Prediction LR': 11.880054006993578, 'Analytics time': 0.5390961170196533}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 15.8, 'Prediction GBT:': 15.960896646135302, 'Format check': 'OK Message ingested to database in 0.281932830811 seconds', 'Prediction LR': 16.051880453867707, 'Analytics time': 0.5564181804656982}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.15, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.283149957657 seconds', 'Prediction LR': 11.193379395005868, 'Analytics time': 0.5499191284179688}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 17.3, 'Prediction GBT:': 16.755562325838074, 'Format check': 'OK Message ingested to database in 0.389312982559 seconds', 'Prediction LR': 17.36619601116553, 'Analytics time': 0.5241649150848389}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 15.8, 'Prediction GBT:': 15.960896646135302, 'Format check': 'OK Message ingested to database in 0.305503129959 seconds', 'Prediction LR': 15.951206037668047, 'Analytics time': 0.5071029663085938}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 5.8, 'Prediction GBT:': 6.067603633435043, 'Format check': 'OK Message ingested to database in 0.301028013229 seconds', 'Prediction LR': 5.980189154794137, 'Analytics time': 0.5410480499267578}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 13.3, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.275650978088 seconds', 'Prediction LR': 13.321724735194836, 'Analytics time': 0.5123910903930664}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 7.8, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.270775079727 seconds', 'Prediction LR': 8.000627035347348, 'Analytics time': 0.5006310939788818}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 21.6, 'Prediction GBT:': 22.620070808594637, 'Format check': 'OK Message ingested to database in 0.286719083786 seconds', 'Prediction LR': 21.41534136711243, 'Analytics time': 0.5155630111694336}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 70.26, 'Prediction GBT:': 70.96323163368457, 'Format check': 'OK Message ingested to database in 0.287548065186 seconds', 'Prediction LR': 69.11065592515803, 'Analytics time': 0.5883998870849609}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 16.56, 'Prediction GBT:': 15.87338143039741, 'Format check': 'OK Message ingested to database in 0.293365001678 seconds', 'Prediction LR': 16.51728800051708, 'Analytics time': 0.5664079189300537}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 5.76, 'Prediction GBT:': 5.501001026769055, 'Format check': 'OK Message ingested to database in 0.311645030975 seconds', 'Prediction LR': 5.911625684826035, 'Analytics time': 0.5197150707244873}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 12.88, 'Prediction GBT:': 13.001412298507704, 'Format check': 'OK Message ingested to database in 0.292459011078 seconds', 'Prediction LR': 12.868504930505262, 'Analytics time': 0.554854154586792}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 12.3, 'Prediction GBT:': 12.599625863764143, 'Format check': 'OK Message ingested to database in 0.288402080536 seconds', 'Prediction LR': 12.466086133782229, 'Analytics time': 0.5223889350891113}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 7.8, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.334558963776 seconds', 'Prediction LR': 7.979053946161708, 'Analytics time': 0.5117909908294678}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 5.8, 'Prediction GBT:': 5.9990067977716635, 'Format check': 'OK Message ingested to database in 0.30966091156 seconds', 'Prediction LR': 6.0183755570635835, 'Analytics time': 0.5014541149139404}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 9.3, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.295669078827 seconds', 'Prediction LR': 9.482641474736615, 'Analytics time': 0.5070040225982666}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 10.56, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.292203903198 seconds', 'Prediction LR': 10.639715340476133, 'Analytics time': 0.46932005882263184}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 6.8, 'Prediction GBT:': 6.426130068542699, 'Format check': 'OK Message ingested to database in 0.312886953354 seconds', 'Prediction LR': 6.995119236748372, 'Analytics time': 0.5001389980316162}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 8.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.276621103287 seconds', 'Prediction LR': 8.514527030726084, 'Analytics time': 0.4757080078125}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 9.54, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.305344104767 seconds', 'Prediction LR': 9.635272769625207, 'Analytics time': 0.5269069671630859}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 8.16, 'Prediction GBT:': 7.418783433651439, 'Format check': 'OK Message ingested to database in 0.292153835297 seconds', 'Prediction LR': 8.274591858191801, 'Analytics time': 0.6485860347747803}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 12.3, 'Prediction GBT:': 12.599625863764143, 'Format check': 'OK Message ingested to database in 0.376024961472 seconds', 'Prediction LR': 12.489816531886435, 'Analytics time': 0.6445419788360596}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 10.56, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.353352069855 seconds', 'Prediction LR': 10.636119825611859, 'Analytics time': 0.5027928352355957}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 20.16, 'Prediction GBT:': 22.21161522547589, 'Format check': 'OK Message ingested to database in 0.339164018631 seconds', 'Prediction LR': 20.049152958540773, 'Analytics time': 0.5200178623199463}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 13.3, 'Prediction GBT:': 13.300976982465064, 'Format check': 'OK Message ingested to database in 0.371655225754 seconds', 'Prediction LR': 13.375086244602379, 'Analytics time': 0.4990549087524414}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 24.96, 'Prediction GBT:': 24.13274706976471, 'Format check': 'OK Message ingested to database in 0.281306028366 seconds', 'Prediction LR': 24.792343776620818, 'Analytics time': 0.5058069229125977}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 6.3, 'Prediction GBT:': 6.270007747296655, 'Format check': 'OK Message ingested to database in 0.317756891251 seconds', 'Prediction LR': 6.526522728659482, 'Analytics time': 0.5339260101318359}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 24.8, 'Prediction GBT:': 25.72624360214801, 'Format check': 'OK Message ingested to database in 0.286016941071 seconds', 'Prediction LR': 24.989989680466017, 'Analytics time': 0.7357289791107178}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 11.3, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.365552902222 seconds', 'Prediction LR': 11.442600760861884, 'Analytics time': 0.7317991256713867}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:37 the report is: {'Target': 14.72, 'Prediction GBT:': 15.316617716664455, 'Format check': 'OK Message ingested to database in 0.305325984955 seconds', 'Prediction LR': 14.748737862969632, 'Analytics time': 0.5289580821990967}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 4.3, 'Prediction GBT:': 4.901871734026302, 'Format check': 'OK Message ingested to database in 0.274255990982 seconds', 'Prediction LR': 4.541394838484299, 'Analytics time': 0.5174698829650879}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 13.3, 'Prediction GBT:': 13.300976982465064, 'Format check': 'OK Message ingested to database in 0.315454959869 seconds', 'Prediction LR': 13.444839232969287, 'Analytics time': 0.5430810451507568}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 14.16, 'Prediction GBT:': 15.252482080680666, 'Format check': 'OK Message ingested to database in 0.316816091537 seconds', 'Prediction LR': 14.167265680662698, 'Analytics time': 0.6237199306488037}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 21.3, 'Prediction GBT:': 21.58057312289133, 'Format check': 'OK Message ingested to database in 0.32220697403 seconds', 'Prediction LR': 21.427925758484744, 'Analytics time': 0.5091240406036377}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 11.75, 'Prediction GBT:': 12.722561272207901, 'Format check': 'OK Message ingested to database in 0.270133018494 seconds', 'Prediction LR': 11.55115077413789, 'Analytics time': 0.4993729591369629}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.36, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.268778800964 seconds', 'Prediction LR': 9.459310908252531, 'Analytics time': 0.5179140567779541}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.35, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.27275800705 seconds', 'Prediction LR': 9.421334540724757, 'Analytics time': 0.5777268409729004}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 24.8, 'Prediction GBT:': 23.9982054772995, 'Format check': 'OK Message ingested to database in 0.350178003311 seconds', 'Prediction LR': 24.761590369822187, 'Analytics time': 0.5971438884735107}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.3, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.272166967392 seconds', 'Prediction LR': 9.504933666895113, 'Analytics time': 0.5210421085357666}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 7.56, 'Prediction GBT:': 7.3844785857998065, 'Format check': 'OK Message ingested to database in 0.279039859772 seconds', 'Prediction LR': 7.663535655867214, 'Analytics time': 0.8550059795379639}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 15.34, 'Prediction GBT:': 15.573761283189954, 'Format check': 'OK Message ingested to database in 0.332632064819 seconds', 'Prediction LR': 15.246400884364538, 'Analytics time': 0.9849650859832764}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 8.5, 'Prediction GBT:': 7.626511521902814, 'Format check': 'OK Message ingested to database in 0.347244977951 seconds', 'Prediction LR': 8.572707148623804, 'Analytics time': 0.5804431438446045}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 10.55, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.305555105209 seconds', 'Prediction LR': 10.607491796731194, 'Analytics time': 0.5546019077301025}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.35, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.30059504509 seconds', 'Prediction LR': 9.43571660018185, 'Analytics time': 0.5781960487365723}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 66.96, 'Prediction GBT:': 61.019861615671715, 'Format check': 'OK Message ingested to database in 0.347306966782 seconds', 'Prediction LR': 65.10782641280304, 'Analytics time': 0.7054181098937988}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 7.8, 'Prediction GBT:': 7.418783433651439, 'Format check': 'OK Message ingested to database in 0.342229127884 seconds', 'Prediction LR': 7.93432167242842, 'Analytics time': 0.6528160572052002}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 14.75, 'Prediction GBT:': 15.252482080680666, 'Format check': 'OK Message ingested to database in 0.283299207687 seconds', 'Prediction LR': 14.76623322248228, 'Analytics time': 0.49829697608947754}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 10.55, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.379083871841 seconds', 'Prediction LR': 10.600300767002647, 'Analytics time': 1.6034109592437744}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 20.76, 'Prediction GBT:': 22.303242714249183, 'Format check': 'OK Message ingested to database in 0.438423156738 seconds', 'Prediction LR': 20.648703513299683, 'Analytics time': 0.8171069622039795}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 7.88, 'Prediction GBT:': 7.413547231543437, 'Format check': 'OK Message ingested to database in 0.342323064804 seconds', 'Prediction LR': 7.971990567986231, 'Analytics time': 1.0505950450897217}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 12.96, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.340512037277 seconds', 'Prediction LR': 13.004119719787608, 'Analytics time': 0.8515009880065918}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 3.8, 'Prediction GBT:': 4.901871734026302, 'Format check': 'OK Message ingested to database in 0.326825857162 seconds', 'Prediction LR': 4.0411577995898025, 'Analytics time': 0.673734188079834}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 8.76, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.399034023285 seconds', 'Prediction LR': 8.848973808900798, 'Analytics time': 0.7615859508514404}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 8.5, 'Prediction GBT:': 7.626511521902814, 'Format check': 'OK Message ingested to database in 0.329907178879 seconds', 'Prediction LR': 8.589965619972316, 'Analytics time': 0.6460318565368652}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 14.8, 'Prediction GBT:': 15.252482080680666, 'Format check': 'OK Message ingested to database in 0.512840986252 seconds', 'Prediction LR': 14.810211101339796, 'Analytics time': 0.6592550277709961}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 38.2, 'Prediction GBT:': 39.73612546737606, 'Format check': 'OK Message ingested to database in 0.341114997864 seconds', 'Prediction LR': 37.13556451756301, 'Analytics time': 0.573840856552124}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.36, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.423652887344 seconds', 'Prediction LR': 9.444928848795438, 'Analytics time': 1.33742094039917}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 11.62, 'Prediction GBT:': 12.529451913699159, 'Format check': 'OK Message ingested to database in 0.357367992401 seconds', 'Prediction LR': 11.636422521464414, 'Analytics time': 0.6194841861724854}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 15.96, 'Prediction GBT:': 15.756001680138562, 'Format check': 'OK Message ingested to database in 0.503415107727 seconds', 'Prediction LR': 15.93643412305239, 'Analytics time': 0.6580338478088379}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 20.16, 'Prediction GBT:': 22.21161522547589, 'Format check': 'OK Message ingested to database in 0.302477121353 seconds', 'Prediction LR': 20.059220400160736, 'Analytics time': 0.6183159351348877}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 10.3, 'Prediction GBT:': 10.982175114425356, 'Format check': 'OK Message ingested to database in 0.382988929749 seconds', 'Prediction LR': 10.424001219335228, 'Analytics time': 0.9490680694580078}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 8.8, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.296046972275 seconds', 'Prediction LR': 9.013325863674872, 'Analytics time': 0.6358771324157715}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 6.96, 'Prediction GBT:': 6.977932568495163, 'Format check': 'OK Message ingested to database in 0.324856996536 seconds', 'Prediction LR': 7.090591911103926, 'Analytics time': 0.6574490070343018}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 11.16, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.305084943771 seconds', 'Prediction LR': 11.196119716863763, 'Analytics time': 0.6639351844787598}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 64.06, 'Prediction GBT:': 65.38877819130789, 'Format check': 'OK Message ingested to database in 0.421441078186 seconds', 'Prediction LR': 63.68663668594515, 'Analytics time': 1.0138509273529053}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 19.32, 'Prediction GBT:': 18.489064919946557, 'Format check': 'OK Message ingested to database in 0.381916999817 seconds', 'Prediction LR': 19.231458793655342, 'Analytics time': 1.28233003616333}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 8.75, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.463474035263 seconds', 'Prediction LR': 8.835446942450083, 'Analytics time': 0.9411129951477051}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 11.15, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.311490058899 seconds', 'Prediction LR': 11.193379395005868, 'Analytics time': 1.015442132949829}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 12.96, 'Prediction GBT:': 12.791708667395055, 'Format check': 'OK Message ingested to database in 0.65077996254 seconds', 'Prediction LR': 12.97391739492771, 'Analytics time': 0.9623599052429199}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 7.17, 'Prediction GBT:': 7.099750041889575, 'Format check': 'OK Message ingested to database in 0.413098096848 seconds', 'Prediction LR': 7.271105278477865, 'Analytics time': 0.9099180698394775}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 9.96, 'Prediction GBT:': 10.25866761303412, 'Format check': 'OK Message ingested to database in 0.316985845566 seconds', 'Prediction LR': 10.013557975721596, 'Analytics time': 0.586277961730957}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 13.39, 'Prediction GBT:': 13.001412298507704, 'Format check': 'OK Message ingested to database in 0.295540094376 seconds', 'Prediction LR': 13.317475623585402, 'Analytics time': 0.5330510139465332}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 14.3, 'Prediction GBT:': 15.676967401257714, 'Format check': 'OK Message ingested to database in 0.370124816895 seconds', 'Prediction LR': 14.412382463423258, 'Analytics time': 0.5156691074371338}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 7.3, 'Prediction GBT:': 7.95955167963463, 'Format check': 'OK Message ingested to database in 0.513319015503 seconds', 'Prediction LR': 7.498232687534288, 'Analytics time': 0.518773078918457}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 14.76, 'Prediction GBT:': 15.252482080680666, 'Format check': 'OK Message ingested to database in 0.419961929321 seconds', 'Prediction LR': 14.753153278937368, 'Analytics time': 0.5768039226531982}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 11.16, 'Prediction GBT:': 10.859400844633267, 'Format check': 'OK Message ingested to database in 0.331865787506 seconds', 'Prediction LR': 11.244299616045028, 'Analytics time': 0.5992062091827393}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:38 the report is: {'Target': 12.25, 'Prediction GBT:': 12.608920688707716, 'Format check': 'OK Message ingested to database in 0.260604858398 seconds', 'Prediction LR': 12.242755835851298, 'Analytics time': 0.5146851539611816}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 11.3, 'Prediction GBT:': 10.280823995724433, 'Format check': 'OK Message ingested to database in 0.263938903809 seconds', 'Prediction LR': 11.485746939233167, 'Analytics time': 0.4790351390838623}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 11.75, 'Prediction GBT:': 12.608920688707716, 'Format check': 'OK Message ingested to database in 0.259683847427 seconds', 'Prediction LR': 11.786458023009086, 'Analytics time': 0.5353760719299316}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 22.56, 'Prediction GBT:': 22.581322066661762, 'Format check': 'OK Message ingested to database in 0.282498121262 seconds', 'Prediction LR': 22.413557337852247, 'Analytics time': 0.6126458644866943}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 8.97, 'Prediction GBT:': 8.660902798335552, 'Format check': 'OK Message ingested to database in 0.282049894333 seconds', 'Prediction LR': 9.074864608272732, 'Analytics time': 0.5074989795684814}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 13.5, 'Prediction GBT:': 13.001412298507704, 'Format check': 'OK Message ingested to database in 0.305232048035 seconds', 'Prediction LR': 13.488637291409912, 'Analytics time': 0.49981689453125}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 10.8, 'Prediction GBT:': 10.982175114425356, 'Format check': 'OK Message ingested to database in 0.302897930145 seconds', 'Prediction LR': 10.904103374989793, 'Analytics time': 0.5237081050872803}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 21.15, 'Prediction GBT:': 19.935904134374827, 'Format check': 'OK Message ingested to database in 0.338127851486 seconds', 'Prediction LR': 20.749514775810727, 'Analytics time': 0.5316550731658936}"
+
+b"For the message of client1 sent at 2019-11-26 15:45:39 the report is: {'Target': 6.8, 'Prediction GBT:': 6.426130068542699, 'Format check': 'OK Message ingested to database in 0.288815021515 seconds', 'Prediction LR': 6.991523721884098, 'Analytics time': 0.6097750663757324}"
