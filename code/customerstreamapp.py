@@ -45,18 +45,19 @@ def check_ingestion_constraints(data):
 def ingest_and_run_analytics(data, sending_time, reception_time):
     format_check = check_ingestion_constraints(data)
     if format_check!='OK':
-        return {'Format check': format_check}
-    df_message = pd.DataFrame.from_dict([data])
-    df_message = df_message[database_features_ordered]
-    df_message_pyspark = spark.createDataFrame(df_message)
-    df_message_pyspark.write.csv(hdfs_database_path, header=True, mode='append')
-    end_ingestion = time.time()
-    ingestion_time = end_ingestion-reception_time
-    df_message_pyspark_assembler = assembler.transform(df_message_pyspark).select(['features',target])
-    prediction_lr = model_lr.transform(df_message_pyspark_assembler).toPandas()['prediction'][0]
-    prediction_gbt = model_gbt.transform(df_message_pyspark_assembler).toPandas()['prediction'][0]
-    analytics_time = time.time()-end_ingestion
-    report = {'Format check': format_check+' Message ingested to database in '+str(ingestion_time)+' seconds','Analytics time':analytics_time,'Prediction LR':prediction_lr,'Prediction GBT:':prediction_gbt,'Target':df_message[target][0]}
+        report = {'Format check': format_check}
+    else:
+        df_message = pd.DataFrame.from_dict([data])
+        df_message = df_message[database_features_ordered]
+        df_message_pyspark = spark.createDataFrame(df_message)
+        df_message_pyspark.write.csv(hdfs_database_path, header=True, mode='append')
+        end_ingestion = time.time()
+        ingestion_time = end_ingestion-reception_time
+        df_message_pyspark_assembler = assembler.transform(df_message_pyspark).select(['features',target])
+        prediction_lr = model_lr.transform(df_message_pyspark_assembler).toPandas()['prediction'][0]
+        prediction_gbt = model_gbt.transform(df_message_pyspark_assembler).toPandas()['prediction'][0]
+        analytics_time = time.time()-end_ingestion
+        report = {'Format check': format_check+' Message ingested to database in '+str(ingestion_time)+' seconds','Analytics time':analytics_time,'Prediction LR':prediction_lr,'Prediction GBT:':prediction_gbt,'Target':df_message[target][0]}
     analytics_output = 'For the message of '+client_id+' sent at '+sending_time+' the report is: '+str(report)    
     rabbitmq_topic = 'analytics_output_topic_'+client_id
     rabbitmq_channel.basic_publish(exchange='', routing_key=rabbitmq_topic, body=analytics_output)
