@@ -1,2 +1,59 @@
-the content of this file should be the output of the log of your own git project for this assignment
-using git log command to export your git log
+commit cb5fade9d77b52a4a4ada5349bd6c0cb137caec5 (HEAD -> master, origin/master)
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Wed Nov 27 21:47:44 2019 +0200
+
+    Add rest of assignment solution files and delete unnecessary ones.
+
+commit 618386fd115d83b70fed88966b4c5db96cfcb47a
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Wed Nov 27 17:32:16 2019 +0200
+
+    Modification for a small reporting issue.
+
+commit 220432328caf2a014cf04cfa113f901c52141d26
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Wed Nov 27 07:46:07 2019 +0200
+
+    Add ingestion/analytics times & output logs for data sample.
+
+commit e875c709637a2b40fbb48e11901ec8106ebe69df
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Wed Nov 27 07:42:16 2019 +0200
+
+    Add metadata pdf.
+
+commit 10ac0456aab0c7bbe04d0b4c11965243bb6a40d5
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Tue Nov 26 18:16:11 2019 +0200
+
+    Add NYC taxi dataset subsample and code used to create it.
+
+commit a48f6bf22a6d18848c3d449540bae412a97fc64c
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Tue Nov 26 16:37:49 2019 +0200
+
+    Add customerstreamapp.py plus changes to send analytics back to client.
+
+commit 0a1de7bb6925a029d6e733a29910facf3e398b1a
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Tue Nov 26 09:29:01 2019 +0200
+
+    Add PySpark notebook to train and save the ML models for customerstreamapp.py analytics.
+
+commit bd2bd6a0a76a7dab5ab6560dd0439aa48b8da8e9
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Tue Nov 26 09:13:55 2019 +0200
+
+    Do not send local sending time of message.
+
+commit d0dcb72328bf18e62c34c8bad60e3dbec303677e
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Sun Nov 24 01:51:03 2019 +0200
+
+    Add scripts for the RabbitMQ message broker system.
+
+commit 5659c219e1b91c8ab42b1b20ced33d2c9e540674
+Author: alvarorgaz <alvarorgaz@gmail.com>
+Date:   Fri Nov 22 09:59:09 2019 +0200
+
+    Default template files for the assignment.
